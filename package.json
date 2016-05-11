@@ -1,0 +1,23 @@
+{
+  "name": "bb8",
+  "version": "0.0.1",
+  "description": "extend bem-walk possibilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeti-or/bb8.git"
+  },
+  "keywords": [
+    "bem",
+    "bem-walk"
+  ],
+  "author": "Vasiliy Loginevskiy <yeti.or@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeti-or/bb8/issues"
+  },
+  "homepage": "https://github.com/Yeti-or/bb8#readme"
+}
