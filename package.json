@@ -1,6 +1,6 @@
 {
   "name": "bb8",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "extend bem-walk possibilities",
   "main": "index.js",
   "scripts": {
