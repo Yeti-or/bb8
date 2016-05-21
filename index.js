@@ -19,9 +19,11 @@ function bb8(config) {
 
         if (!levelsGlob) return null;
 
-        var files = fs.readdirSync(bundlePath);
-        files = files.filter(file => minimatch(file, levelsGlob));
-        files = files.map(file => path.join(bundlePath, file));
+        // TODO: make it async
+        var files =
+            fs.readdirSync(bundlePath)
+                .filter(file => minimatch(file, levelsGlob))
+                .map(file => path.join(bundlePath, file));
 
         return bemWalk(files)
     }
