@@ -1,6 +1,6 @@
 {
   "name": "bem-walk-nested",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "extend bem-walk possibilities",
   "main": "index.js",
   "scripts": {
