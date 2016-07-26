@@ -1,5 +1,5 @@
 {
-  "name": "bb8",
+  "name": "bem-walk-nested",
   "version": "0.0.2",
   "description": "extend bem-walk possibilities",
   "main": "index.js",
