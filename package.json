@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Yeti-or/bb8#readme",
   "dependencies": {
     "bem-walk": "^1.0.0-1",
-    "minimatch": "^3.0.0",
+    "minimatch": "^3.0.4",
     "through2": "^2.0.1"
   }
 }
